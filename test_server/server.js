@@ -24,5 +24,5 @@ app.get('/uhv',(req,res)=>{
     res.send("soujanya madam")
 })
 app.listen(3000,()=>{
-    res.send("running bro")
+    console.log("running bro")
 })
